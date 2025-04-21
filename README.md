@@ -1,6 +1,6 @@
 ## Hi there 👋
 👋 Hi, I'm Julia Porrino
-🔬 Data Scientist | Machine Learning Engineer | Biomedical Engineer
+🔬 Machine Learning Engineer | Data Scientist | Biomedical Engineer
 
 📍 Based in Newark, NJ | 💼 Currently at EpiBone, Inc.
 
@@ -9,95 +9,16 @@ I'm a biomedical engineer turned machine learning engineer, passionate about tra
 
 🐍 Programming & Scripting Languages (Python, R, Hadoop, Bash,SQL)
 
-🧰 Tools & Environments (Jupyter Notebook, Visual Studio Code, Git & GitHub
+🧰 Tools & Environments (Jupyter Notebook, Visual Studio Code, Git & GitHub, Stack Overflow (Community Engagement),Render,Streamlit
 
-Stack Overflow (Community Engagement)
+📦 Libraries & Frameworks (Pandas, NumPy, PySpark, SciPy, Statsmodels, Matplotlib,Seaborn
 
-Render
+🧠 Machine Learning (Scikit-learn (sklearn), TensorFlow, Keras, ImageDataGenerator, Spacy
 
-Streamlit
+📐 Statistical & ML Techniques (Probability Theory, Statistical Data Analysis (SDA), EDA, Hypothesis Testing, Bootstrapping, A/B Testing, Cross Validation
 
-📦 Libraries & Frameworks
-📊 Data Manipulation & Analysis
+🤖 Machine Learning Concepts (Supervised (Linear Regression,Logistic Regression, Decision Trees, Random Forests,Gradient Boosting Machines (GBM), K-Nearest Neighbors (KNN), Neural Networks) ad Unsupervised Learning (K-Means Clustering), Gradient Descent & Matrix Operations, Optimize Hyperparameters, Overfitting, Residuals & Vector Representations, Pipeline Creation, Feature Scaling & Encoding, Train/Test Splits & Model Evaluation, Interpretation of Results & Next Steps
 
-Pandas
-
-NumPy
-
-PySpark
-
-SciPy
-
-Statsmodels
-
-📈 Data Visualization
-
-Matplotlib
-
-Seaborn
-
-🧠 Machine Learning
-
-Scikit-learn (sklearn)
-
-TensorFlow
-
-Keras
-
-ImageDataGenerator
-
-Spacy
-
-📐 Statistical & ML Techniques
-
-📊 Statistical Methods
-Probability Theory
-
-Statistical Data Analysis (SDA)
-
-Hypothesis Testing
-
-Bootstrapping
-
-A/B Testing
-
-Cross Validation
-
-🤖 Machine Learning Concepts
-
-Supervised (Linear Regression,Logistic Regression, Decision Trees, Random Forests,Gradient Boosting Machines (GBM), K-Nearest Neighbors (KNN), Neural Networks) ad Unsupervised Learning (K-Means Clustering)
-
-Gradient Descent & Matrix Operations
-
-Linear Regression (Scikit-learn & NumPy)
-
-Optimize Hyperparameters
-
-Overfitting, Residuals & Vector Representations
-
-Pipeline Creation
-
-Feature Scaling & Encoding
-
-Train/Test Splits & Model Evaluation
-
-Interpretation of Results & Next Steps
-
-🧪 Data Formats & APIs
-JSON
-
-YAML
-
-API (Application Programming Interface)
-
-REST (Representational State Transfer – Client/Server Architecture)
-
-🔍 Data Science Workflow
-Exploratory Data Analysis (EDA)
-
-Model Implementation & Comparison
-
-Insights & Actionable Recommendations
 
 📈 Projects
 Here are some of my notable projects:
@@ -105,12 +26,10 @@ Here are some of my notable projects:
 🔗 Interconnect
 A telecom company exploring predictions of when clients would leave. By discovering at-risk clients, the company plans to offer them incentives to stay.
 
-GitHub Repository: Interconnect
 
 🖼️ Image Data Generator (Computer Vision)
 Utilized Keras' ImageDataGenerator to augment image datasets for deep learning in computer vision. Visualized real-time image transformations to improve model generalization and reduce overfitting.
 
-GitHub Repository: Image Data Generator
 
 📊 GitHub Stats
 
@@ -121,29 +40,20 @@ GitHub Repository: Image Data Generator
 # Feel free to explore my repositories to see more of my work!
 
 
-Project number | Title | Description |
+Project number | Title | ML Concepts |
 | :-----------: | ----------- |----------- |
-| 1 | [PROJECT NAME](PROJECT DIRECTORY LINK) | DESCRIPTION HERE. |
-| 2 | [PROJECT NAME](PROJECT DIRECTORY LINK) | DESCRIPTION HERE. |
-| 3 | [PROJECT NAME](PROJECT DIRECTORY LINK) | DESCRIPTION HERE. |
-| 4 | [PROJECT NAME](PROJECT DIRECTORY LINK) | DESCRIPTION HERE. |
-| 5 | [PROJECT NAME](PROJECT DIRECTORY LINK) | DESCRIPTION HERE. |
-| 6 | [PROJECT NAME](PROJECT DIRECTORY LINK) | DESCRIPTION HERE. |
-| 7 | [PROJECT NAME](PROJECT DIRECTORY LINK) | DESCRIPTION HERE. |
-| 8 | [PROJECT NAME](PROJECT DIRECTORY LINK) | DESCRIPTION HERE. |
-| 9 | [PROJECT NAME](PROJECT DIRECTORY LINK) | DESCRIPTION HERE. |
-| 10| [PROJECT NAME](PROJECT DIRECTORY LINK) | DESCRIPTION HERE. |
-
-
-
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| 1 | [Television_Rating_Research](https://github.com/who0liebo0lie/Televison_Rating_Research.git) | Pandas, dictionaries, functions, pipeline, Data Preprocesing |
+| 2 | [Instacart_Data_Review](https://github.com/who0liebo0lie/Instacart_Data_Review.git) | Data Visualization, Filtering Data, Data types, Feature Engineering, Pipeline, Data Transformations |
+| 3 | [Megaline_Business_Review](https://github.com/who0liebo0lie/Megaline_Business_Review.git) | SDA, Probability testing, Hypothesis,, Data Visualization, Pipeline, Data Preprocessing, Business Insights |
+| 4 | [Car_Sales_Advertisement](https://github.com/who0liebo0lie/Car_Sales_Advertisements.git) | Git, GitHub, Render, Streamlit, Command Line, Render |
+| 5 | [Video_Game_Analysis](https://github.com/who0liebo0lie/Video_Game_Analysis.git) | Data visualization, Pipeline, Data Preprocessing, Business Insight |
+| 6 | [Megaline_Plan_Selection](https://github.com/who0liebo0lie/Megaline_Plan_Selection.git) | Supervised Learning, Scitkit-Learn, Model Evaluation, Pipeline , Under/Overfitting, Hyperparameters, Decision Tree, train/test/validation of models, Random Forest, Logistic Regression, Linear Regression |
+| 7 | [Beta_Bank_Supervised_Machine_Learning](https://github.com/who0liebo0lie/Beta-Bank-Supervised-Machine-Learning.git) | Supervised learning, One-Hot Encoding, Balance classes, F1, up/downsampling, AUC-ROC curve, Model Evaluation, Data Visualization, Pipeline, Data Preprocessing, Linear algebra |
+| 8 | [OilyGiant_Mining_Location_Discovery](https://github.com/who0liebo0lie/OilyGiant-Mining-Location-Discovery.git) | Supervised Learning, Model Evaluation, Visualization, Pipeline, Business Insight, A/B test, Bootstrapping, Cross-Validation |
+| 9 | [Gold_Mining_Recovery_Prediction](https://github.com/who0liebo0lie/Gold_Mining_Recovery_Prediction.git) | Supervised Learning, Model Evaluation, Visualization, Feature Engineering |
+| 10| [Sure_Tomorrow_Insurance_Machine_Learning_Linear_Algebra](https://github.com/who0liebo0lie/Sure-Tomorrow-Insurance-Machine-Learning-Linear-Algebra-.git) | Linear Algebra, Vector Operations, Vector Distance (Dot Product, Euclidean, Manhattan, K-Nearest Neighbors), Matrix operations, Supervised Learning, Model Evaluation, Visualization, Pipeline, Feature Engineering |
+| 11 | [Rusty_Bargain_Car_Sales_Numerical_Methods](https://github.com/who0liebo0lie/Rusty-Bargain-Car-Sales-Numerical-Methods-.git) | Numerical Methods, Gradient Descent, Gradient Boosting,  Neural Network, XGBoost, LightGBM, CatBoost, Supervised Learning, Model Evaluation, Visualization |
+| 12 | [Sweet_Life_Taxis_Time_Series_Analysis](https://github.com/who0liebo0lie/Sweet-Life-Taxi-Time-Series-Analysis-.git) | Time Series, Forecasting, Trends and Seasonality, Supervised learning, Model Evaluation, Pipeline, Visualization |
+| 13| [Film_Junky_Union_Machine_Learning_for_Texts]([PROJECT DIRECTORY LINK](https://github.com/who0liebo0lie/Film-Junky-Union-Machine-Learning-for-Texts-.git) | ML for texts, Lemmatization, Bag-of-Words, TF-IDF, Word Embeddings, BERT, Supervised Learing, Model Evaluation, Pipeline, Visualization, Business Insights, Feature Engineering |
+| 14 | [Image_Data_Generator_Computer_Vision](https://github.com/who0liebo0lie/-Image-Data-Generator-Computer-Vision-.git) | Computer Vision, Neural networks, Keras, CNN, ResNet, BERT, Pipeline,visualization, business insight, TensorFlow |
+| 15| [Interconnect](https://github.com/who0liebo0lie/Interconnect.git) | End-to-End Model Development, SKLEARN, Pandas, Supervised Learning, Model Evaluation, Feature Engineering, Data visualization, Pipeline |
