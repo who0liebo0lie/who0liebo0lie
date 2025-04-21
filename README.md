@@ -7,21 +7,9 @@
 🧠 About Me
 I'm a biomedical engineer turned machine learning engineer, passionate about transforming complex datasets into actionable insights. With expertise in machine learning, statistical programming, and data mining, I specialize in developing predictive models that drive strategic decision-making. I believe in creating longer tables and shorter fences, fostering collaboration and innovation.
 
-🐍 Programming & Scripting Languages
+🐍 Programming & Scripting Languages (Python, R, Hadoop, Bash,SQL)
 
-Python
-
-Bash
-
-SQL
-
-🧰 Tools & Environments
-
-Jupyter Notebook
-
-Visual Studio Code
-
-Git & GitHub
+🧰 Tools & Environments (Jupyter Notebook, Visual Studio Code, Git & GitHub
 
 Stack Overflow (Community Engagement)
 
@@ -130,12 +118,23 @@ GitHub Repository: Image Data Generator
 📫 Let's Connect
 [LinkedIn profile](https://www.linkedin.com/in/juliaporrino/).
 
+# Feel free to explore my repositories to see more of my work!
 
-Feel free to explore my repositories to see more of my work!
+
+Project number | Title | Description |
+| :-----------: | ----------- |----------- |
+| 1 | [PROJECT NAME](PROJECT DIRECTORY LINK) | DESCRIPTION HERE. |
+| 2 | [PROJECT NAME](PROJECT DIRECTORY LINK) | DESCRIPTION HERE. |
+| 3 | [PROJECT NAME](PROJECT DIRECTORY LINK) | DESCRIPTION HERE. |
+| 4 | [PROJECT NAME](PROJECT DIRECTORY LINK) | DESCRIPTION HERE. |
+| 5 | [PROJECT NAME](PROJECT DIRECTORY LINK) | DESCRIPTION HERE. |
+| 6 | [PROJECT NAME](PROJECT DIRECTORY LINK) | DESCRIPTION HERE. |
+| 7 | [PROJECT NAME](PROJECT DIRECTORY LINK) | DESCRIPTION HERE. |
+| 8 | [PROJECT NAME](PROJECT DIRECTORY LINK) | DESCRIPTION HERE. |
+| 9 | [PROJECT NAME](PROJECT DIRECTORY LINK) | DESCRIPTION HERE. |
+| 10| [PROJECT NAME](PROJECT DIRECTORY LINK) | DESCRIPTION HERE. |
 
 
-<!--
-**who0liebo0lie/who0liebo0lie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 
