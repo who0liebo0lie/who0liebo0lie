@@ -8,6 +8,7 @@
 I'm a biomedical engineer turned machine learning engineer, passionate about transforming complex datasets into actionable insights. With expertise in machine learning, statistical programming, and data mining, I specialize in developing predictive models that drive strategic decision-making. I believe in creating longer tables and shorter fences, fostering collaboration and innovation.
 
 🐍 Programming & Scripting Languages
+
 Python
 
 Bash
@@ -15,6 +16,7 @@ Bash
 SQL
 
 🧰 Tools & Environments
+
 Jupyter Notebook
 
 Visual Studio Code
@@ -29,6 +31,7 @@ Streamlit
 
 📦 Libraries & Frameworks
 📊 Data Manipulation & Analysis
+
 Pandas
 
 NumPy
@@ -40,11 +43,13 @@ SciPy
 Statsmodels
 
 📈 Data Visualization
+
 Matplotlib
 
 Seaborn
 
 🧠 Machine Learning
+
 Scikit-learn (sklearn)
 
 TensorFlow
@@ -56,6 +61,7 @@ ImageDataGenerator
 Spacy
 
 📐 Statistical & ML Techniques
+
 📊 Statistical Methods
 Probability Theory
 
@@ -70,7 +76,8 @@ A/B Testing
 Cross Validation
 
 🤖 Machine Learning Concepts
-Supervised & Unsupervised Learning
+
+Supervised (Linear Regression,Logistic Regression, Decision Trees, Random Forests,Gradient Boosting Machines (GBM), K-Nearest Neighbors (KNN), Neural Networks) ad Unsupervised Learning (K-Means Clustering)
 
 Gradient Descent & Matrix Operations
 
