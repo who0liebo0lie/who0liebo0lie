@@ -16,7 +16,6 @@
 
 🤖 Machine Learning Concepts (Supervised (Linear Regression,Logistic Regression, Decision Trees, Random Forests,Gradient Boosting Machines (GBM), K-Nearest Neighbors (KNN), Neural Networks) ad Unsupervised Learning (K-Means Clustering), Gradient Descent & Matrix Operations, Optimize Hyperparameters, Overfitting, Residuals & Vector Representations, Pipeline Creation, Feature Scaling & Encoding, Train/Test Splits & Model Evaluation, Interpretation of Results & Next Steps
 
-
 📈 Projects
 Here are some of my notable projects:
 
@@ -41,16 +40,17 @@ Project number | Title | ML Concepts |
 | 5 | [Car_Sales_Advertisement](https://github.com/who0liebo0lie/Car_Sales_Advertisements.git) | Git, GitHub, Render, Streamlit, Command Line, Render |
 | 6| [Film_Junky_Union_Machine_Learning_for_Texts](https://github.com/who0liebo0lie/Film-Junky-Union-Machine-Learning-for-Texts-.git) | ML for texts, Lemmatization, Bag-of-Words, TF-IDF, Word Embeddings, BERT, Supervised Learning, Model Evaluation, Pipeline, Visualization, Business Insights, Feature Engineering |
 | 7 | [Sweet_Life_Taxis_Time_Series_Analysis](https://github.com/who0liebo0lie/Sweet-Life-Taxi-Time-Series-Analysis-.git) | Time Series, Forecasting, Trends and Seasonality, Supervised learning, Model Evaluation, Pipeline, Visualization |
-| 8 | [OilyGiant_Mining_Location_Discovery](https://github.com/who0liebo0lie/OilyGiant-Mining-Location-Discovery.git) | Supervised Learning, Model Evaluation, Visualization, Pipeline, Business Insight, A/B test, Bootstrapping, Cross-Validation |
-| 9| [Sure_Tomorrow_Insurance_Machine_Learning_Linear_Algebra](https://github.com/who0liebo0lie/Sure-Tomorrow-Insurance-Machine-Learning-Linear-Algebra-.git) | Linear Algebra, Vector Operations, Vector Distance (Dot Product, Euclidean, Manhattan, K-Nearest Neighbors), Matrix operations, Supervised Learning, Model Evaluation, Visualization, Pipeline, Feature Engineering |
-| 10 | [Rusty_Bargain_Car_Sales_Numerical_Methods](https://github.com/who0liebo0lie/Rusty-Bargain-Car-Sales-Numerical-Methods-.git) | Numerical Methods, Gradient Descent, Gradient Boosting,  Neural Network, XGBoost, LightGBM, CatBoost, Supervised Learning, Model Evaluation, Visualization |
-| 11 | [Beta_Bank_Supervised_Machine_Learning](https://github.com/who0liebo0lie/Beta-Bank-Supervised-Machine-Learning.git) | Supervised learning, One-Hot Encoding, Balance classes, F1, up/downsampling, AUC-ROC curve, Model Evaluation, Data Visualization, Pipeline, Data Preprocessing, Linear algebra |
-| 12 | [Video_Game_Analysis](https://github.com/who0liebo0lie/Video_Game_Analysis.git) | Data visualization, Pipeline, Data Preprocessing, Business Insight |
-| 13 | [Megaline_Plan_Selection](https://github.com/who0liebo0lie/Megaline_Plan_Selection.git) | Supervised Learning, Scitkit-Learn, Model Evaluation, Pipeline , Under/Overfitting, Hyperparameters, Decision Tree, train/test/validation of models, Random Forest, Logistic Regression, Linear Regression |
-| 14 | [Gold_Mining_Recovery_Prediction](https://github.com/who0liebo0lie/Gold_Mining_Recovery_Prediction.git) | Supervised Learning, Model Evaluation, Visualization, Feature Engineering |
-| 15 | [Megaline_Business_Review](https://github.com/who0liebo0lie/Megaline_Business_Review.git) | SDA, Probability testing, Hypothesis, Data Visualization, Pipeline, Data Preprocessing, Business Insights |
-| 16 | [Instacart_Data_Review](https://github.com/who0liebo0lie/Instacart_Data_Review.git) | Data Visualization, Filtering Data, Data types, Feature Engineering, Pipeline, Data Transformations |
-| 17 | [Television_Rating_Research](https://github.com/who0liebo0lie/Televison_Rating_Research.git) | Pandas, dictionaries, functions, pipeline, Data Preprocesing |
+| 8 | [Text Classification with BERT](https://github.com/who0liebo0lie/Wikipedia-Bias-Detection.git) | Transformers, BERT Fine Tuning, NER, Sequence Tagging, MultiClass Classification, Custom Evaluation Metrics, F1 Score, Token Classification, Text Preprocessing, PyTorch, Bias Detection, Applied NLP, BERT |
+| 9 | [OilyGiant_Mining_Location_Discovery](https://github.com/who0liebo0lie/OilyGiant-Mining-Location-Discovery.git) | Supervised Learning, Model Evaluation, Visualization, Pipeline, Business Insight, A/B test, Bootstrapping, Cross-Validation |
+| 10| [Sure_Tomorrow_Insurance_Machine_Learning_Linear_Algebra](https://github.com/who0liebo0lie/Sure-Tomorrow-Insurance-Machine-Learning-Linear-Algebra-.git) | Linear Algebra, Vector Operations, Vector Distance (Dot Product, Euclidean, Manhattan, K-Nearest Neighbors), Matrix operations, Supervised Learning, Model Evaluation, Visualization, Pipeline, Feature Engineering |
+| 11 | [Rusty_Bargain_Car_Sales_Numerical_Methods](https://github.com/who0liebo0lie/Rusty-Bargain-Car-Sales-Numerical-Methods-.git) | Numerical Methods, Gradient Descent, Gradient Boosting,  Neural Network, XGBoost, LightGBM, CatBoost, Supervised Learning, Model Evaluation, Visualization |
+| 12 | [Beta_Bank_Supervised_Machine_Learning](https://github.com/who0liebo0lie/Beta-Bank-Supervised-Machine-Learning.git) | Supervised learning, One-Hot Encoding, Balance classes, F1, up/downsampling, AUC-ROC curve, Model Evaluation, Data Visualization, Pipeline, Data Preprocessing, Linear algebra |
+| 13 | [Video_Game_Analysis](https://github.com/who0liebo0lie/Video_Game_Analysis.git) | Data visualization, Pipeline, Data Preprocessing, Business Insight |
+| 14 | [Megaline_Plan_Selection](https://github.com/who0liebo0lie/Megaline_Plan_Selection.git) | Supervised Learning, Scitkit-Learn, Model Evaluation, Pipeline , Under/Overfitting, Hyperparameters, Decision Tree, train/test/validation of models, Random Forest, Logistic Regression, Linear Regression |
+| 15 | [Gold_Mining_Recovery_Prediction](https://github.com/who0liebo0lie/Gold_Mining_Recovery_Prediction.git) | Supervised Learning, Model Evaluation, Visualization, Feature Engineering |
+| 16 | [Megaline_Business_Review](https://github.com/who0liebo0lie/Megaline_Business_Review.git) | SDA, Probability testing, Hypothesis, Data Visualization, Pipeline, Data Preprocessing, Business Insights |
+| 17 | [Instacart_Data_Review](https://github.com/who0liebo0lie/Instacart_Data_Review.git) | Data Visualization, Filtering Data, Data types, Feature Engineering, Pipeline, Data Transformations |
+| 18 | [Television_Rating_Research](https://github.com/who0liebo0lie/Televison_Rating_Research.git) | Pandas, dictionaries, functions, pipeline, Data Preprocesing |
 
 
 
