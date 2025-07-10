@@ -50,11 +50,3 @@ Project number | Title | ML Concepts |
 | 15 | [Megaline_Business_Review](https://github.com/who0liebo0lie/Megaline_Business_Review.git) | SDA, Probability testing, Hypothesis, Data Visualization, Pipeline, Data Preprocessing, Business Insights |
 | 16 | [Instacart_Data_Review](https://github.com/who0liebo0lie/Instacart_Data_Review.git) | Data Visualization, Filtering Data, Data types, Feature Engineering, Pipeline, Data Transformations |
 | 17 | [Television_Rating_Research](https://github.com/who0liebo0lie/Televison_Rating_Research.git) | Pandas, dictionaries, functions, pipeline, Data Preprocesing |
-
-
-
-
-
-
-
-
