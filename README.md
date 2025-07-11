@@ -29,8 +29,6 @@ Utilized Keras' ImageDataGenerator to augment image datasets for deep learning i
 📫 Let's Connect
 [LinkedIn profile](https://www.linkedin.com/in/juliaporrino/).
 
-# Feel free to explore my repositories to see more of my work!
-
 Project number | Title | ML Concepts |
 | :-----------: | ----------- |----------- |
 | 1| [GNN_Molecular_Prediction_App ](https://github.com/who0liebo0lie/GNN-Molecular-Tutorial-.git) | End-to-End Model Development, GCN/GNN, Supervised Learning, Feature Engineering, Molecular Graph Representation, SMILES Parsing, Neural Network Architecture Design, Hugging Face, Streamlit, Real-Time Inference, Data Preprocessing and Validation|
